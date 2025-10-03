@@ -1,3 +1,28 @@
+# Hands-on
+```index.html
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" />
+		<title> Tushar Seth </title>
+	</head>
+
+	<body>
+		<h1> hello From Nginx </h1>
+		<p> This is sample Nginx WebPage </p>
+	</body>
+</html>
+
+```
+```style.css
+body{	
+	background-color: #ff0000;
+}
+```
+
+<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/be9daba4-3885-4e6a-a2d3-92074a02d6d1" />
+
+
+
 # Nginx Guide
 
 This document explains important concepts, installation steps, and commands for working with **Nginx** on Ubuntu and Docker(WSL).
